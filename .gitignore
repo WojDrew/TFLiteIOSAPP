@@ -1,0 +1,9 @@
+build/
+xcuserdata/
+.build/
+.DS_Store
+.Trashes
+Thumbs.db
+Pods/*
+assets/
+
